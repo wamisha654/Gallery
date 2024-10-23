@@ -4,7 +4,7 @@ import Gallery from './Components/gallery/gallery.js'
 function App() {
   return (
     <div className="App">
-      <h1>This My Gallery</h1>
+      <h1 style={{color: 'white'}}>My Gallery</h1>
       <Gallery />
     </div>
   );
